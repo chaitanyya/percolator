@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "kani-proof": {
+      "source": "workersio/spec",
+      "sourceType": "github",
+      "computedHash": "0c855293960edce621d40d3393bce595192457f2610673ee475c5fafc18dc58b"
+    }
+  }
+}
